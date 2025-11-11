@@ -1,0 +1,1 @@
+for i in `cat ../00.config/wellsToShowTracking.txt`; do echo $i; python ../../../scripts/42.showASHLAR_algnmnts.py $i; done

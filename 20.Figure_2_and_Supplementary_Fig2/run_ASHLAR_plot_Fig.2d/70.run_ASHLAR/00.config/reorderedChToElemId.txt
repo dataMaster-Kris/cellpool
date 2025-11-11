@@ -1,0 +1,5 @@
+Channel.1	Channel.2	Channel.3	Channel.4	cycle
+HOECHST	GFP	NA	NA	cycle1
+HOECHST	OLLAS	V5	HA	cycle2
+HOECHST	ALFA	FLAG	STAG	cycle3
+HOECHST	STREPII	MYC	VSVG	cycle4

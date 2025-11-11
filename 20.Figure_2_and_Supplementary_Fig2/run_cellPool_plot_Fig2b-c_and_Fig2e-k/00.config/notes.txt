@@ -1,0 +1,7 @@
+The plate was used to test anti-Strep-II antibodies alongside collecting data for validating the cellpool debarcoding algorithm. The lone well with Strep-II and S-tag barcodes is being ignored (wells E9 and E12).
+
+The barcode ALFA-VSVG-Ollas in pV2TUd7 backbone was also plated in another construct which had the barcodes ordered as VSVG-ALFA-Ollas in the pV1TUd1 backbone. Ignoring the wells with the latter construct (F9 and F12).
+
+The columns 7-12 were imaged first and columns 1-6 were preserved for additional testing of antibodies in case of any failures. Strep-II tag antibody tested in columns 7-12 failed. Newer anti-Strep-II antibodies were later tested in columns 1-6. For this analysis, only columns 7-12 are being considered.  
+
+Since, wells E9, F9, E12, and F12 are not being analyzed, also ignoring wells H9 and H12 with untransduced U2OS cells. This leaves 42 wells analyzed that will later be presented in a 7x6 grid format. 
