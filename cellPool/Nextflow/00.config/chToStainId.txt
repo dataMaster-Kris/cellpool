@@ -1,0 +1,6 @@
+Channel.1	Channel.2	Channel.3	Channel.4	cycle
+Alexa 568	Alexa 488	HOECHST 33342	NA	cycle1
+Alexa 647	Alexa 568	Alexa 488	HOECHST 33342	cycle2
+Alexa 647	Alexa 568	Alexa 488	HOECHST 33342	cycle3
+Alexa 647	Alexa 568	Alexa 488	HOECHST 33342	cycle4
+Alexa 647	Alexa 568	Alexa 488	HOECHST 33342	cycle5

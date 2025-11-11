@@ -1,0 +1,13 @@
+name: cellPool_cellpose
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.13
+  - pandas=1.5.2
+  - pip=22.3.1
+  - pip:
+     - cellpose==2.2.3
+     - opencv-python-headless==4.8.0.76
+prefix: /

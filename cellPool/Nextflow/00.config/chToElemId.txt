@@ -1,0 +1,6 @@
+Channel.1	Channel.2	Channel.3	Channel.4	cycle
+WGA	GFP	HOECHST	NA	cycle1
+aTubulin	pH3Ser10	gH2AX	HOECHST	cycle2
+STREPII	MYC	HA	HOECHST	cycle3
+OLLAS	FLAG	STAG	HOECHST	cycle4
+ALFA	V5	VSVG	HOECHST	cycle5
